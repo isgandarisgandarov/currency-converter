@@ -1,0 +1,21 @@
+select {
+    margin: 8px;
+    border: 2px solid #e1e5ee;
+    border-radius: 0.5rem;
+    color: white;
+    outline: none;
+    padding: 0.5rem;
+    background: none;
+}
+
+#select:hover {
+    border-color: #64ffda;
+}
+
+#select:focus {
+    border-color: #64ffda;
+}
+
+option {
+    background-color: #0A192F;
+}
